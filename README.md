@@ -10,5 +10,4 @@ Use an if/else (or switch) statement to determine which operator the user entere
 Use casting to ensure that data loss/memory wasteage does not occur in your program, for example:
 
   1. When you divide 10 by 4. The answer is 2.5 (a float) not 2 (an integer)).
-  2. When you add, subtract or multiply two integers that produce a result larger than
-  2147483647 (or smaller than ‐2147483647) you need to cast to a long."
+  2. When you add, subtract or multiply two integers that produce a result larger than 2147483647 (or smaller than ‐2147483647) you     need to cast to a long."
